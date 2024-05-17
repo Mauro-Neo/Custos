@@ -1,6 +1,9 @@
 # Custos
 Aplicação de gerenciamento de projetos desenvolvido em ReactJS.
 
+![Logo](./Custos.png)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
