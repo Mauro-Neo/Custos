@@ -1,0 +1,106 @@
+{
+  "projects": [
+    {
+      "id": "f761",
+      "name": "Portfólio de Vendas",
+      "budget": "10000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Imprimir Portfólio",
+          "cost": "500",
+          "description": "Imprimir portfólio para os vendedores",
+          "id": "4150854a-ae05-46cf-b691-dbdbeb9999d9"
+        }
+      ]
+    },
+    {
+      "id": "0740",
+      "name": "Portal de vendas",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 50000,
+      "services": [
+        {
+          "name": "Contratar Dev Back",
+          "cost": "25000",
+          "description": "Responsável pelo Backend do projeto",
+          "id": "ebccf0b9-b991-470f-839f-853ede74f1dd"
+        },
+        {
+          "description": "Responsável pelo Frontend do projeto",
+          "cost": "25000",
+          "name": "Contratar Dev Front",
+          "id": "8173426d-213e-4dba-9186-3e92e35ada39"
+        }
+      ]
+    },
+    {
+      "id": "4563",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "name": "Equipamentos",
+      "budget": "25000",
+      "cost": 20000,
+      "services": [
+        {
+          "name": "Notebooks",
+          "cost": "15000",
+          "description": "Notebooks para equipe",
+          "id": "557b00a5-aa81-4e64-87d3-bca9bf262748"
+        },
+        {
+          "name": "Monitores",
+          "cost": "5000",
+          "description": "Monitores para equipe",
+          "id": "a692872e-bb1f-45f2-b91f-333366678552"
+        }
+      ]
+    },
+    {
+      "id": "830b",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "name": "Planejamento",
+      "budget": "30000",
+      "cost": 10000,
+      "services": [
+        {
+          "name": "Contratar PO",
+          "cost": "10000",
+          "description": "Contratar PO para o projeto",
+          "id": "7bff8569-74b5-4dd8-9d55-6f9e14ae9bfa"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
